@@ -14,7 +14,7 @@ To be more efficient, this code can be hosted in the cloud with pythonanywhere a
 1. Clone the repository by entering the following command in your IDE terminal:
 	git clone https://github.com/andreibarstan/WebScraper_AmazonProductPriceAlert.git
 
-2. Install "pandas" library:
+2. Install required libraries:
 	pip3 install requests bs4 lxml --user 
 
 3. Open main.py file and populate "my_email" and "password" variables. 
