@@ -1,4 +1,4 @@
-# Web Scraper - Amazon product price monitor
+# Web Scraper - Amazon product price monitoring
 
 
 ## Description
